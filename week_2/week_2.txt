@@ -1,0 +1,10 @@
+##################### compound types #######################
+
+each of : a compound containing many values of type n
+one of : a compound containing one value of type n
+
+
+case e0 of
+     p1 => e1
+   | p2 => e2
+   | p3 => e3

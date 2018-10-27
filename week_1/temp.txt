@@ -1,0 +1,12 @@
+Syntax:
+  e1 < e2
+Type Checking rules
+  e1 must evaluate to an int
+  e2 must evaluate to an int
+Evaluation Rules
+  e1 evaluates to v1
+  e2 evaluates to v2
+  if e1 is smaller than e2
+  then the expression evaluates to the value true
+  if e1 is larger than e2
+  then the expression evaluates to the value false

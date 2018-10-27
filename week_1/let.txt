@@ -1,0 +1,7 @@
+Syntax:
+  let b1 b2 ... bn in e end
+Type-checking:
+  type check each binding and e in a static environment that includes
+  the previous bindings. the type of the whole let expression is the type of
+  e.
+Evaluation:
